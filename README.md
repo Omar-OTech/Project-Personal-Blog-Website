@@ -27,3 +27,5 @@ Each page has an intentional user flow with appropriate links as needed.
 
 Tip: The homepage, design system, and blog post all contain links to each other. The Homepage should have fake links, such as "About", "Search", and "Subscribe".
 
+image generated using Copilot AI
+image from [unsplash](https://unsplash.com/)
