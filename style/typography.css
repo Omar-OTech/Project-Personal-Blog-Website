@@ -1,0 +1,61 @@
+.logo {
+    color: var(--white);
+    font-size: clamp(1.2rem, 3vw, 1.5rem);
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-family: "Orbitron", system-ui;
+}
+
+.nav-link {
+    color: var(--light-text);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    font-family: "Laila", system-ui;
+    font-size: clamp(0.9rem, 2vw, 1rem);
+}
+
+.hero h1 {
+    font-size: clamp(1.5rem, 5vw, 2.5rem);
+    margin-bottom: 1rem;
+    font-family: "Orbitron", system-ui;
+}
+
+.hero p {
+    font-size: clamp(0.9rem, 3vw, 1.2rem);
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+    font-family: "Laila", system-ui;
+}
+
+.section-title {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin-bottom: 1.5rem;
+    color: var(--secondary-color);
+}
+
+.article h3 {
+    font-size: clamp(1.2rem, 3vw, 1.5rem);
+    margin-bottom: 0.5rem;
+    color: var(--secondary-color);
+}
+
+.article p {
+    font-size: clamp(0.9rem, 2vw, 1rem);
+    color: var(--text-color);
+    letter-spacing: 2px;
+    font-family: "Laila", system-ui;
+}
+
+.site-footer p {
+    letter-spacing: 2px;
+    font-size: clamp(0.8rem, 2vw, 1rem);
+}
+
+.social-icons a {
+    color: var(--light-text);
+    font-size: clamp(1.2rem, 3vw, 1.5rem);
+    margin-left: 1rem;
+    transition: color 0.3s ease;
+}
