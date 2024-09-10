@@ -1,4 +1,7 @@
 # This is Project: Personal Blog Website
+
+[Blog](https://pop2323.github.io/Project-Personal-Blog-Website/)
+
 ## Structure
 
 ### Criteria
